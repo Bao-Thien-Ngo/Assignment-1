@@ -1,4 +1,4 @@
-The dataset contains the following column:
+The dataset contains the following columns:
 - gender: gender of a student(male or female)
 - race/ethicity: race of a student
 - parental level of education: the level of education of students'parents
