@@ -1,4 +1,5 @@
 The dataset contains the following columns:
+- Unnamed: 0: do not contain any value information
 - gender: gender of a student(male or female)
 - race/ethicity: race of a student
 - parental_level_of_education: the level of education of students'parents
